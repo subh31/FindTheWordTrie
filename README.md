@@ -1,4 +1,4 @@
-# Trie-Project-Find-the-word-
+# FindTheWord
 Project made for bobble.ai
 # C++ Trie Implementation
 
